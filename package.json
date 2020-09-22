@@ -1,0 +1,11 @@
+{
+  "name": "node-vue",
+  "version": "1.0.0",
+  "description": "node-vue-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "martin",
+  "license": "ISC"
+}
